@@ -1,5 +1,14 @@
-# Taller DevSecOps
-🔐 DevSecOps
+# 🛡️ Taller Práctico: Fundamentos de DevSecOps
+
+![DevSecOps](https://img.shields.io/badge/-DevSecOps-2088FF?style=flat-square&logo=github&logoColor=white)
+![Security](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=security&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+Este repositorio contiene el desarrollo del Taller de **DevSecOps**, parte integral de mi Especialización en Ciberseguridad. En este documento se abordan los conceptos teóricos fundamentales, así como la resolución analítica a problemas comunes de seguridad en el ciclo de vida del desarrollo de software (SDLC).
+
+---
+
+## 🔐 Introducción a DevSecOps
 
 DevSecOps es un enfoque de desarrollo de software que integra la seguridad en todas las fases del ciclo de vida del desarrollo, desde la planificación hasta el despliegue y la operación.
 
